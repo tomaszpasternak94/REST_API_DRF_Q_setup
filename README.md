@@ -1,4 +1,4 @@
-# Decathlon Recruitment Task 
+# QTK
 > Quick Setup DRF_REST API 
 
 ## Table of contents
